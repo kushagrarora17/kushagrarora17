@@ -1,4 +1,8 @@
-### Hi there 👋
+# Kushagr Arora
+🧑🏻‍💻 Full Stack Developer | 🎤 Tech Speaker | 🍿 Movie Lover
+
+> **Jack of all trades, Master of One**
+
 
 <!--
 **kushagrarora17/kushagrarora17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
