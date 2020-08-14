@@ -3,7 +3,7 @@
 
 > **Jack of all trades, Master of One**
 
-### Some interesting projects that I have worked on:
+### Some interesting personal projects:
   - [Leetcode - August 2020](https://github.com/kushagrarora17/leetcode-august) - My solutions to month-long Leetcode Challenge
   - [PWA Talk - Demo](https://friends-pwa-demo.netlify.app/) - Demo created to teach PWA @[JSLovers](https://jslovers.com/)
   - [Corona Binge List](https://csb-wswo8-hss191lr3.now.sh/) - Create your movie bucket-list to watch during lockdown.
