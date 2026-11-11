@@ -1,6 +1,8 @@
 # Kushagr Arora
 🧑🏻‍💻 Full Stack Developer | 🎤 Tech Speaker | 🍿 Movie Lover
 
+[![XERJ Corpus Hub contributor](https://hub.xerj.org/contributors/kushagrarora17/badge.svg)](https://hub.xerj.org/contributors/kushagrarora17)
+
 > **Jack of all trades, Master of One**
 
 ### Some interesting personal projects:
